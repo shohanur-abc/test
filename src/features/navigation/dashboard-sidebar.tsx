@@ -55,6 +55,8 @@ const SidebarContentContent = ({ items }: { items: IDashboardSidebar['sidebarIte
     </SidebarContent>
 );
 
+// edited
+
 const SidebarMenuItems = ({ items }: { items: IDashboardSidebar['sidebarItems'][0]['items'] }) => (
     <SidebarMenu>
         {items.map((item) => (
