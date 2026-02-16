@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 // TODO: Connect stats to real-time data from API
 // TODO: Add dynamic team member loading from CMS
 // TODO: Integrate partner logos from CDN
-
+// Lizan vai
 export default function Page() {
     return (
         <>
