@@ -13,6 +13,7 @@ export const metadata: Metadata = {
 // TODO: Integrate partner logos from CDN
 // from: ibrahim-dev {Im add some comments for testing how github team collabration works, ignore this }
 
+// something
 export default function Page() {
     return (
         <>
